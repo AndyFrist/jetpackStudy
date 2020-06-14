@@ -1,0 +1,15 @@
+<resources>
+    <string name="ateam" translatable="false">ATeam</string>
+    <string name="bteam" translatable="false">BTeam</string>
+    <string name="undo" translatable="false">undo</string>
+    <string name="app_name" translatable="false">scoreboard</string>
+    <string name="reset" translatable="false">reset</string>
+    <string name="add1">+1</string>
+    <string name="add2">+2</string>
+    <string name="add3">+3</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
